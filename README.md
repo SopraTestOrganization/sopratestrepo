@@ -1,2 +1,2 @@
-# sopra test
+# sopra-test
 #TestforStudents
